@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Jumbotron Template for Bootstrap</title>
+    <title>Thanks for visit</title>
 
 
     <!-- Custom styles for this template -->
@@ -52,8 +52,8 @@
 <div class="jumbotron">
     <div class="container">
         <h1>Hello</h1>
-        <p>This is from dev branch. </p>
-        <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
+        <p>Visit my website </p>
+        <p><a href="https://mr-rfifa.vercel.app" target="_blank" class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
 
